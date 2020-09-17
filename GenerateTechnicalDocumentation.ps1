@@ -1,5 +1,5 @@
 #This is a Powershell script
-#This script genrates the Technical Documentation from Blue Prism Process
+#This script generates the Technical Documentation from Blue Prism Process
 
 
  
